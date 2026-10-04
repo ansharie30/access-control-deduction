@@ -1,0 +1,20 @@
+[90m= [39m[34;4mPdo\Pgsql[39;24m {#7452
+    [34minTransaction[39m: [36mfalse[39m,
+    [34mattributes[39m: {
+      [34mCASE[39m: [36mNATURAL[39m,
+      [34mERRMODE[39m: [36mEXCEPTION[39m,
+      [34mPERSISTENT[39m: [36mfalse[39m,
+      [34mDRIVER_NAME[39m: [32m"[39m[32mpgsql[39m[32m"[39m,
+      [34mSERVER_INFO[39m: [32m"[39m[32mPID: 62868; Client Encoding: UTF8; Is Superuser: off; Session Authorization: anshari; Date Style: ISO, MDY[39m[32m"[39m,
+      [34mORACLE_NULLS[39m: [36mNATURAL[39m,
+      [34mCLIENT_VERSION[39m: [32m"[39m[32m18.4[39m[32m"[39m,
+      [34mSERVER_VERSION[39m: [32m"[39m[32m18.4 (Ubuntu 18.4-0ubuntu0.26.04.1)[39m[32m"[39m,
+      [34mSTATEMENT_CLASS[39m: [
+        [32m"[39m[32mPDOStatement[39m[32m"[39m,
+      ],
+      [34mEMULATE_PREPARES[39m: [36mfalse[39m,
+      [34mCONNECTION_STATUS[39m: [32m"[39m[32mConnection OK; waiting to send.[39m[32m"[39m,
+      [34mSTRINGIFY_FETCHES[39m: [36mfalse[39m,
+      [34mDEFAULT_FETCH_MODE[39m: [36mBOTH[39m,
+    },
+  }
