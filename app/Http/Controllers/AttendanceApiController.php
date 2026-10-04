@@ -27,6 +27,11 @@ class AttendanceApiController extends Controller
     private ?string $fetchError = null;
     
 
+    public function test(): JsonResponse
+    {
+        return response()->json(['value' => random_int(1, 100)]);
+    }
+
     public function calculate(Request $request): JsonResponse
     {
         $employeePin = trim((string) $request->query('employee_pin', ''));
